@@ -1,0 +1,83 @@
+Day 1: 16/09/2020 09h45
+
+    STEP 1: Understanding Backend Frameworks, the MVC working principle & TWIG
+    STEP 2: Learning Symfony
+
+    Notes:
+        *
+
+    References:
+        *Traversy Media Course:
+            https://www.youtube.com/watch?v=t5ZedKnWX9E&list=PLillGF-Rfqba-PQBBEf14-fi6LafvvDYS
+        *freeCodeCamp Course:
+            https://www.youtube.com/watch?v=Bo0guUbL5uo
+        *SymfonyCast Course:
+            https://symfonycasts.com/tracks/symfony4
+        *Lynda Course for understanding how frameworks work and how to install them:
+            https://www.lynda.com/PHP-tutorials/MVC-Frameworks-Building-PHP-Web-Applications/540346-2.html
+    
+WORKTIME: 3H48M
+
+Stopping time: 16/09/2020 22h05
+
+
+Day 2: 17/09/2020 09h50
+
+    STEP 1 Completed Yesterday dunno when
+
+    STEP 2 IN PROGRESS
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME:  4H34M
+
+Stopping time: 17/09/2020 21h00 
+
+
+Day 3: 18/09/2020 10h08
+
+    STEP 2 IN PROGRESS
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME: 2H43M
+
+Stopping time: 18/09/2020 22h52
+
+
+Day 4: 19/09/2020 12h19
+
+    STEP 2 IN PROGRESS
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME:
+
+Stopping time: 19/09/2020
+
+
+
+
+
+REFERENCES:
+    *Traversy Media Course:
+        https://www.youtube.com/watch?v=t5ZedKnWX9E&list=PLillGF-Rfqba-PQBBEf14-fi6LafvvDYS
+    *freeCodeCamp Course:
+        https://www.youtube.com/w
+        atch?v=Bo0guUbL5uo
+    *SymfonyCast Course:
+        https://symfonycasts.com/tracks/symfony4
+    *Lynda Course for understanding how frameworks work and how to install them:
+        https://www.lynda.com/PHP-tutorials/MVC-Frameworks-Building-PHP-Web-Applications/540346-2.html
