@@ -63,9 +63,30 @@ Day 4: 19/09/2020 12h19
     References:
         *
 
-WORKTIME:
+WORKTIME:4H05M
 
-Stopping time: 19/09/2020
+Stopping time: 19/09/2020 18h27
+
+
+Day 5: 20/09/2020 10h15
+
+    STEP 2 IN PROGRESS
+
+    STEP 2 Completed at 11h30
+
+    STEP 3:
+        -Reminder of the OOP principle & knowing how to OOP with PHP. 
+        -Understanding Services, Dependency Injection & the Containers' role.
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME: 5h24
+
+Stopping time: 20/09/2020 21h30
 
 
 
