@@ -1,11 +1,11 @@
 
 ###> symfony/framework-bundle ###
-/skeleton/.env.local
-/skeleton/.env.local.php
-/skeleton/.env.*.local
-/skeleton/config/secrets/prod/prod.decrypt.private.php
-/skeleton/public/bundles/
-/skeleton/src/.preload.php
-/skeleton/var/
-/skeleton/vendor/
+/the_spacebar/.env.local
+/the_spacebar/.env.local.php
+/the_spacebar/.env.*.local
+/the_spacebar/config/secrets/prod/prod.decrypt.private.php
+/the_spacebar/public/bundles/
+/the_spacebar/src/.preload.php
+/the_spacebar/var/
+/the_spacebar/vendor/
 ###< symfony/framework-bundle ###
