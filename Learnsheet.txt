@@ -111,14 +111,15 @@ Day 6: 22/09/2020 12h06
         -Practice Symfony while reviewing the SymfonyCast Course
 
     Notes:
-        *
+        *Learning a lot more from practicing while watching. 
+        *Did the first Course, but I'm still behind, I have some homework to do and I'm pretty tired. I'll go back at it tomorow after the morning "Communication" Class. 
 
     References:
         *
 
-WORKTIME: 
+WORKTIME: 3H40M
 
-Stopping time: 22/09/2020
+Stopping time: 22/09/2020 20h51
 
 
 
