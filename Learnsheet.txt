@@ -78,6 +78,8 @@ Day 5: 20/09/2020 10h15
         -Reminder of the OOP principle & knowing how to OOP with PHP. 
         -Understanding Services, Dependency Injection & the Containers' role.
 
+    STEP 3 Completed at 21h30
+
     Notes:
         *
 
@@ -87,6 +89,38 @@ Day 5: 20/09/2020 10h15
 WORKTIME: 5h24
 
 Stopping time: 20/09/2020 21h30
+
+
+///////////////////////////// GOALS /////////////////////////////
+
+
+    24/09/2020: 
+        -Reach Half of the Mastering Doctrine Relations Course by the end of the day:
+            *https://symfonycasts.com/screencast/doctrine-relations/resume
+        ?Checked // ?Unchecked
+
+
+
+
+///////////////////////////// GOALS /////////////////////////////
+
+
+
+
+Day 6: 22/09/2020 12h06
+
+    STEP 4: 
+        -Practice Symfony while reviewing the SymfonyCast Course
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME: 
+
+Stopping time: 22/09/2020
 
 
 
