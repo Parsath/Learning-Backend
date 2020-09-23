@@ -20,10 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bfa44f-eacf-4c6d-9e1a-3cbf14239732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/js/article_show.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/article/homepage.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/knp_markdown.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/the_spacebar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/the_spacebar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/cache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/cache.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/article/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/homepage.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/article/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
@@ -101,6 +108,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
       <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-markdown-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hrkPBLD1gtP54g60EKxs5L6LjL" />
@@ -137,6 +146,7 @@
       <updated>1600776586572</updated>
       <workItem from="1600776590609" duration="706000" />
       <workItem from="1600777346405" duration="9495000" />
+      <workItem from="1600861806743" duration="3510000" />
     </task>
     <servers />
   </component>
@@ -172,5 +182,13 @@
       <screen x="1360" y="0" width="1920" height="1040" />
     </state>
     <state x="1517" y="153" key="SettingsEditor/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1600800940907" />
+    <state x="2041" y="261" width="540" height="524" key="StructurePopup" timestamp="1600863407259">
+      <screen x="1360" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2041" y="261" width="540" height="524" key="StructurePopup/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1600863407259" />
+    <state x="1360" y="0" width="1559" height="889" key="dock-window-1" timestamp="1600863222346">
+      <screen x="1360" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1360" y="0" width="1559" height="889" key="dock-window-1/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1600863222346" />
   </component>
 </project>
