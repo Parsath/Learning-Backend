@@ -122,6 +122,20 @@ WORKTIME: 3H40M
 Stopping time: 22/09/2020 20h51
 
 
+Day 7: 23/09/2020 12h47
+
+    STEP 4 IN PROGRESS
+
+    Notes:
+        *
+    References:
+        *
+
+WORKTIME: 
+
+Stopping time: 23/09/2020 
+
+
 
 
 
