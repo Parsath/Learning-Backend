@@ -94,9 +94,14 @@ Stopping time: 20/09/2020 21h30
 ///////////////////////////// GOALS /////////////////////////////
 
 
-    24/09/2020: 
-        -Reach Half of the Mastering Doctrine Relations Course by the end of the day:
+    Goal n°1: 
+        -By the end of the day 24/09/2020, reach half of the Mastering Doctrine Relations Course by the end of the day:
             *https://symfonycasts.com/screencast/doctrine-relations/resume
+        ?Checked // ! UNCHECKED
+    
+    Goal n°2:
+        -By the end of the day 26/09/2020, reach the one hour mark in the Symfony Security course:
+            *https://symfonycasts.com/screencast/symfony-security/resume
         ?Checked // ?Unchecked
 
 
@@ -135,6 +140,36 @@ Day 7: 23/09/2020 12h47
 WORKTIME: 4H32M
 
 Stopping time: 23/09/2020 22h12
+
+
+Day 8: 25/09/2020 11h58
+
+    STEP 4 IN PROGRESS
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME: 4H04
+
+Stopping time: 25/09/2020 18h00
+
+
+Day 9: 26/09/2020 13h07
+
+    STEP 4 IN PROGRESS
+
+    Notes:
+        *
+
+    References:
+        *
+
+WORKTIME: 
+
+Stopping time: 26/09/2020 
 
 
 
