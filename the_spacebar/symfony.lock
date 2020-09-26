@@ -126,8 +126,14 @@
     "guzzlehttp/psr7": {
         "version": "1.6.1"
     },
+    "knplabs/knp-components": {
+        "version": "v2.4.2"
+    },
     "knplabs/knp-markdown-bundle": {
         "version": "1.8.1"
+    },
+    "knplabs/knp-paginator-bundle": {
+        "version": "v5.3.0"
     },
     "knplabs/knp-time-bundle": {
         "version": "v1.13.0"
@@ -319,6 +325,9 @@
     "symfony/dependency-injection": {
         "version": "v4.4.13"
     },
+    "symfony/deprecation-contracts": {
+        "version": "v2.2.0"
+    },
     "symfony/doctrine-bridge": {
         "version": "v4.4.13"
     },
@@ -423,6 +432,9 @@
     "symfony/polyfill-apcu": {
         "version": "v1.18.1"
     },
+    "symfony/polyfill-intl-grapheme": {
+        "version": "v1.18.1"
+    },
     "symfony/polyfill-intl-idn": {
         "version": "v1.18.1"
     },
@@ -466,6 +478,9 @@
     },
     "symfony/stopwatch": {
         "version": "v4.4.13"
+    },
+    "symfony/string": {
+        "version": "v5.1.5"
     },
     "symfony/translation": {
         "version": "3.3",
@@ -536,6 +551,9 @@
         "version": "v4.4.13"
     },
     "twig/extra-bundle": {
+        "version": "v3.0.5"
+    },
+    "twig/string-extra": {
         "version": "v3.0.5"
     },
     "twig/twig": {

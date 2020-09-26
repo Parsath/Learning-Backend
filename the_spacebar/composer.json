@@ -12,6 +12,7 @@
         "doctrine/doctrine-migrations-bundle": "^3.0",
         "doctrine/orm": "^2.7",
         "knplabs/knp-markdown-bundle": "^1.8",
+        "knplabs/knp-paginator-bundle": "^5.3",
         "knplabs/knp-time-bundle": "^1.13",
         "sensio/framework-extra-bundle": "^5.6",
         "sensiolabs/security-checker": "^6.0",
@@ -24,7 +25,9 @@
         "symfony/maker-bundle": "^1.21",
         "symfony/polyfill-apcu": "^1.18",
         "symfony/web-server-bundle": "4.4.*",
-        "symfony/yaml": "4.4.*"
+        "symfony/yaml": "4.4.*",
+        "twig/extra-bundle": "^3.0",
+        "twig/string-extra": "^3.0"
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "^3.3",
