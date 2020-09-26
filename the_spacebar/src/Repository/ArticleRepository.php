@@ -4,6 +4,7 @@ namespace App\Repository;
 
 use App\Entity\Article;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
+use Doctrine\Common\Collections\Criteria;
 use Doctrine\ORM\QueryBuilder;
 use Doctrine\Persistence\ManagerRegistry;
 
@@ -29,6 +30,14 @@ class ArticleRepository extends ServiceEntityRepository
             ->orderBy('a.publishedAt', 'DESC')
             ->getQuery()
             ->getResult()
+        ;
+    }
+
+    public static function createNonDeletedCriteria(): Criteria
+    {
+        return Criteria::create()
+            ->andWhere(Criteria::expr()->eq('isDeleted', false))
+            ->orderBy(['createdAt' => 'DESC'])
         ;
     }
 
