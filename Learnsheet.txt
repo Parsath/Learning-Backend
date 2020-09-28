@@ -177,18 +177,26 @@ Day 10: 28/09/2020 10h39
     STEP 4 IN PROGRESS
 
     Notes:
-        *
+        *Noticed Something very important
+        *A course & a half to go.. Now I need to speed it up because I think I lack practice. A lot of the theory I'm learning is starting to get confusing, GL me. 
 
     References:
         *
 
-WORKTIME: 
+WORKTIME: 3H44M
 
-Stopping time: 28/09/2020
-
-
+Stopping time: 28/09/2020 18h43
 
 
+
+IMPORTANT LESSONS I'M LEARNING: 
+    -To learn a new programming language there are 3 Major Steps I need to follow:
+        1-Discovery: 
+            *Search & Discover what the language can do and try to seek out as much information as you can about all the possibilities. No need to practice yet, just learn what it can do and take notes of the important Points so that you don't forget about them. Understanding what it can do and its limits are the 2 key parts of this first step.
+        2-Practice:
+            *Try to practice as much as you can and experiment with the new programming language so that you can familiarize yourself with the syntax of the language and its functionnalities. Whether it be through docs, through exercices found through the web or through true projects.
+        3-Apply Your knowledge:
+            *Dive into real projects. 
 
 REFERENCES:
     *Traversy Media Course:

@@ -20,11 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25942339-e8d8-4233-8f5d-a51ea6fa48e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/account.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/BaseController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translations/security.en.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learnsheet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learnsheet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/the_spacebar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/the_spacebar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/homepage.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleAdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/CommentAdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CommentAdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/ArticleFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/ArticleFixtures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/BaseFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/BaseFixtures.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/CommentFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/CommentFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/TagFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/TagFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/MarkdownHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/MarkdownHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/comment_admin/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/comment_admin/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/content_base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/content_base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +171,13 @@
       <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
       <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
       <path value="$PROJECT_DIR$/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
     </include_path>
   </component>
   <component name="ProjectId" id="1i0jcxiL2vTVtp8vhNlt2tZD7Q5" />
@@ -169,8 +189,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\The Spacebar\the_spacebar\public\css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -183,7 +209,7 @@
       <workItem from="1601051530879" duration="2253000" />
       <workItem from="1601122268519" duration="13376000" />
       <workItem from="1601213999920" duration="635000" />
-      <workItem from="1601285043498" duration="575000" />
+      <workItem from="1601285043498" duration="15961000" />
     </task>
     <servers />
   </component>
@@ -203,13 +229,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2125" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1601135123161">
+    <state x="2125" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1601314672901">
       <screen x="1360" y="0" width="1920" height="1040" />
     </state>
-    <state x="2125" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1601135123161" />
-    <state x="1983" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601143797859">
+    <state x="2125" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1601314672901" />
+    <state x="2063" y="243" key="NewPhpClassDialog" timestamp="1601308021608">
       <screen x="1360" y="0" width="1920" height="1040" />
     </state>
-    <state x="1983" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1601143797859" />
+    <state x="2063" y="243" key="NewPhpClassDialog/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1601308021608" />
+    <state x="1983" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601290895168">
+      <screen x="1360" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1983" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1360.728/1360.0.1920.1040@1360.0.1920.1040" timestamp="1601290895168" />
   </component>
 </project>
