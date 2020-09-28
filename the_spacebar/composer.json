@@ -24,6 +24,7 @@
         "symfony/framework-bundle": "4.4.*",
         "symfony/maker-bundle": "^1.21",
         "symfony/polyfill-apcu": "^1.18",
+        "symfony/security-bundle": "4.4.*",
         "symfony/web-server-bundle": "4.4.*",
         "symfony/yaml": "4.4.*",
         "twig/extra-bundle": "^3.0",

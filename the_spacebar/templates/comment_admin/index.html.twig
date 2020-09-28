@@ -14,8 +14,8 @@
                     <input type="text"
                            name="q"
                            class="form-control"
-                           placeholder="Search..."
                            value="{{ app.request.query.get('q') }}"
+                           placeholder="Search..."
                     >
                     <div class="input-group-append">
                         <button type="submit"
@@ -36,30 +36,30 @@
                 </tr>
                 </thead>
                 <tbody>
-                    {% for comment in pagination %}
-                        <tr>
-                            <td>
-                                <a href="{{ path('article_show', {slug: comment.article.slug}) }}">
-                                    {{ comment.article.title }}
-                                </a>
-                            </td>
-                            <td>
-                                {{ comment.authorName }}
-                            </td>
-                            <td style="width: 20%">
-                                {{ comment.content|u.truncate(40, '...') }}
-                            </td>
-                            <td>
-                                {{ comment.createdAt|ago }}
-                            </td>
-                        </tr>
-                    {% else %}
-                        <tr>
-                            <td colspan="4" class="text-center">
-                                No Comments found
-                            </td>
-                        </tr>
-                    {% endfor %}
+                {% for comment in pagination %}
+                    <tr>
+                        <td>
+                            <a href="{{ path('article_show', {'slug': comment.article.slug}) }}">
+                                {{ comment.article.title }}
+                            </a>
+                        </td>
+                        <td>
+                            {{ comment.authorName }}
+                        </td>
+                        <td style="width: 20%;">
+                            {{ comment.content|truncate }}
+                        </td>
+                        <td>
+                            {{ comment.createdAt|ago }}
+                        </td>
+                    </tr>
+                {% else %}
+                    <tr>
+                        <td colspan="4" class="text-center">
+                            No comments found
+                        </td>
+                    </tr>
+                {% endfor %}
                 </tbody>
             </table>
 
