@@ -188,6 +188,21 @@ WORKTIME: 3H44M
 Stopping time: 28/09/2020 18h43
 
 
+Day 11: 29/09/2020 19h06
+
+    STEP 4 IN PROGRESS
+
+    Notes:
+        *Started in what feels like a gloomy day, feels weird.
+
+    References:
+        *
+
+WORKTIME:
+
+Stopping time: 29/09/2020
+
+
 
 IMPORTANT LESSONS I'M LEARNING: 
     -To learn a new programming language there are 3 Major Steps I need to follow:
